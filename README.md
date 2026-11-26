@@ -9,6 +9,6 @@
 
 |实现方法|具体位置|
 |---|---|
-|threading timer|[Threading timer版目录](./Threadingtimer版本)|
+|threading timer|[Threading timer版目录](./Threading_timer版本)|
 |sleep|[sleep版目录](./sleep版本)|
 |async|[async版目录](./async版ServerToClient通信机制(含业务))|
